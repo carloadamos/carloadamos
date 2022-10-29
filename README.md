@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @carloadamos
 - 👀 I’m interested in ...anything that will generate income
-- 🌱 I’m currently learning ...graphql and react
+- 🌱 I’m currently learning ...react & vue3 ts
 - 💞️ I’m looking to collaborate on ...anything related to #3
 - 📫 How to reach me ...send me an email (johncarloadamos@gmail.com)
 
